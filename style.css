@@ -1,0 +1,46 @@
+.hide {
+    display: none;
+}
+
+html {
+    margin: 0;
+    text-align: center;
+    align-items: center;
+    font-family: 'Text Me One';
+    background-color: rgb(255, 203, 125);
+}
+
+#title {
+    font-size: 90px;
+    font-family : 'Kite One';
+}
+body {
+    font-size: 30px;
+}
+
+button {
+    font-family: 'Kite One';
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 900;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 40px;
+    padding-left: 40px;
+    color: rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(255, 230, 193);
+    border-radius: 8px;
+    transition-duration: 0.4s;
+    box-shadow: 0 8px 10px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.endMessage {
+    font-size: 28px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+#restart-btn {
+    margin-top: 50px;
+}
